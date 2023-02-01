@@ -8,4 +8,6 @@ behind the changes taking place around the world.
 
 // Take a look at our more detailed description in the slide deck here: http://Bit.ly/AmeerFlippinAi
 
-Feel free to contact Ameer here: AmeerFlippin@Outlook.com.[AmeerFlippinAi.pdf](https://github.com/ameerflippin/AmeerFlippinAi/files/10552260/AmeerFlippinAi.pdf)
+Feel free to contact Ameer here: AmeerFlippin.
+
+[AmeerFlippinAi.pdf](https://github.com/ameerflippin/AmeerFlippinAi/files/10552260/AmeerFlippinAi.pdf)
